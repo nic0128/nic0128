@@ -1,5 +1,5 @@
-## Hi there 👋
-I am a Computer Science student and I will be sharing my projects here. Thank you for stopping by! 🙏
+## Nice to meet you!
+I am a Computer Science student and I will be sharing my projects here. Thank you for going out of your way to view my profile.
 <!--
 **nic0128/nic0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
